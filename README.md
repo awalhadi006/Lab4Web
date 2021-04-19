@@ -38,4 +38,9 @@
   
   ![Screenshot_106](https://user-images.githubusercontent.com/24362384/115179616-ebe8ba80-a0fd-11eb-8320-cf2a6041b599.png)
 
+  <li><b>Membuat Layout Sederhana</b></br>
+  Buatlah folder baru (bukan file html baru) dengan nama <b>lab4_layout</b>, kemudian buatlah file html baru didalamnya dengan nama <b>home.html</b>. dan file css dengan nama <b>style.css</b>.
+  
+  ![Screenshot_107](https://user-images.githubusercontent.com/24362384/115180254-5fd79280-a0ff-11eb-89c9-0de73f6353eb.png)
+
   
