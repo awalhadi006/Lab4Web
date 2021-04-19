@@ -79,3 +79,20 @@
   
   ![Screenshot_115](https://user-images.githubusercontent.com/24362384/115195644-3297de00-a119-11eb-9d7e-b634422bbd2c.png)
 
+  <li><b>Mengatur Footer</b><br>
+  Selanjutnya mengatur tampilan footer. Tambahkan kode CSS berikut untuk footernya.
+  
+  ![Screenshot_116](https://user-images.githubusercontent.com/24362384/115196170-d1bcd580-a119-11eb-9358-51d36f23d423.png)
+
+  <li><b>Menambahkan Elemen lainnya pada Main Content</b><br>
+
+![Screenshot_117](https://user-images.githubusercontent.com/24362384/115197588-56f4ba00-a11b-11eb-92ed-84ec87f0bf9b.png)
+
+  Kemudian tambahkan CSS.
+  
+  ![Screenshot_118](https://user-images.githubusercontent.com/24362384/115198725-97a10300-a11c-11eb-8c95-74dd7c8a293b.png)
+
+  Lakukan refresh pada browser agar terlihat hasilnya.
+  
+  ![Screenshot_119](https://user-images.githubusercontent.com/24362384/115198765-a2f42e80-a11c-11eb-961e-e49dfe3f530a.png)
+
