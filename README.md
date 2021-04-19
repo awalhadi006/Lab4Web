@@ -43,4 +43,14 @@
   
   ![Screenshot_107](https://user-images.githubusercontent.com/24362384/115180254-5fd79280-a0ff-11eb-89c9-0de73f6353eb.png)
 
+  Kemudian buat kerangkat layout dengan semantics element seperti berikut.
   
+  ![Screenshot_108](https://user-images.githubusercontent.com/24362384/115180568-1471b400-a100-11eb-988b-1212e8acb7f6.png)
+
+  Kemudian tulis kode berikut.
+  
+  ![Screenshot_109](https://user-images.githubusercontent.com/24362384/115180930-f2c4fc80-a100-11eb-9a87-658e92588747.png)
+
+  Lalu tambahkan kode CSS untuk membuat layoutnya.
+    
+![Screenshot_110](https://user-images.githubusercontent.com/24362384/115182111-98796b00-a103-11eb-8b94-3bb210942886.png)
