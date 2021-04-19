@@ -54,3 +54,28 @@
   Lalu tambahkan kode CSS untuk membuat layoutnya.
     
 ![Screenshot_110](https://user-images.githubusercontent.com/24362384/115182111-98796b00-a103-11eb-8b94-3bb210942886.png)
+
+  <li><b>Membuat Navigasi</b><br>
+  Kemudian selanjutnya mengatur navigasi.
+  
+  ![Screenshot_111](https://user-images.githubusercontent.com/24362384/115191179-47717300-a113-11eb-94df-5c81928ff7a8.png)
+
+  <li><b>Membuat Hero Panel</b><br>
+  Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+  
+  ![Screenshot_112](https://user-images.githubusercontent.com/24362384/115191863-383ef500-a114-11eb-9986-aca2355e23c6.png)
+ 
+  <li><b>Mengatur Layout Main dan Sidebar</b><br>
+  Selanjutnya mengatur main content dan sidebar, tambahkan kode CSS float seperti berikut.
+  
+  ![Screenshot_113](https://user-images.githubusercontent.com/24362384/115192293-d206a200-a114-11eb-9b4f-8ee710b9a245.png)
+
+  <li><b>Membuat Sidebar Widget</b><br>
+  Kemudian selanjutnya menambahkan element lain dalam sidebar.
+  
+  ![Screenshot_114](https://user-images.githubusercontent.com/24362384/115192939-b2bc4480-a115-11eb-80fd-89f52d9b99d5.png)
+
+  Kemudian tambahkan CSS.
+  
+  ![Screenshot_115](https://user-images.githubusercontent.com/24362384/115195644-3297de00-a119-11eb-9d7e-b634422bbd2c.png)
+
