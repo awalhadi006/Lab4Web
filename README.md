@@ -29,4 +29,13 @@
   
 ![Screenshot_104](https://user-images.githubusercontent.com/24362384/115179166-e343b480-a0fc-11eb-993e-5ba53e562bad.png)
 
- 
+  Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (<i>left</i>, <i>both</i>, <i>right</i>), dan amati perubahannya.<br><br>
+  Jika nilainya <i>both</i>
+  
+  ![Screenshot_105](https://user-images.githubusercontent.com/24362384/115179597-dd020800-a0fd-11eb-8f2d-48d5310ca79a.png)
+
+  Jika nilainya <i>right</i>
+  
+  ![Screenshot_106](https://user-images.githubusercontent.com/24362384/115179616-ebe8ba80-a0fd-11eb-8320-cf2a6041b599.png)
+
+  
