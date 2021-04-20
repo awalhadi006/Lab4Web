@@ -102,12 +102,11 @@
   ![Screenshot_120](https://user-images.githubusercontent.com/24362384/115201472-8f969280-a11f-11eb-86c8-8309dd959339.png)
 
   Kemudian tambahkan kode CSS agar tampilan menjadi lebih bagus.
-  
-  </li>
-  </ol>
-  
+
   ![Screenshot_121](https://user-images.githubusercontent.com/24362384/115202315-7e01ba80-a120-11eb-8d81-e86b6e422c48.png)
   
+  </li>
+  </ol>  
   
   <h1>Validasi Dokumen HTML</h1>
 <ul>
