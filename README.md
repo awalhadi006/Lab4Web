@@ -104,6 +104,7 @@
   Kemudian tambahkan kode CSS agar tampilan menjadi lebih bagus.
   
   </li>
+  </ol>
   
   ![Screenshot_121](https://user-images.githubusercontent.com/24362384/115202315-7e01ba80-a120-11eb-8d81-e86b6e422c48.png)
   
