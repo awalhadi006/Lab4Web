@@ -104,3 +104,28 @@
   Kemudian tambahkan kode CSS agar tampilan menjadi lebih bagus.
   
   ![Screenshot_121](https://user-images.githubusercontent.com/24362384/115202315-7e01ba80-a120-11eb-8d81-e86b6e422c48.png)
+  
+  <h1>Validasi Dokumen HTML</h1>
+<ul>
+  <li>Dokumen home.html
+
+![Screenshot_124](https://user-images.githubusercontent.com/24362384/115355643-11042880-a1e5-11eb-9da6-e617f1a838d8.png)
+
+
+  <li>Dokumen artikel.html
+  
+![Screenshot_125](https://user-images.githubusercontent.com/24362384/115355681-195c6380-a1e5-11eb-81c4-da33769b11c2.png)
+
+
+  <li>Dokumen about.html
+  
+![Screenshot_126](https://user-images.githubusercontent.com/24362384/115355721-224d3500-a1e5-11eb-9ac4-220875683d7f.png)
+
+  <li>Dokumen kontak.html
+  
+![Screenshot_127](https://user-images.githubusercontent.com/24362384/115355768-2e38f700-a1e5-11eb-8d47-c2b11936533d.png)
+
+
+  </li>
+</ul>
+  
