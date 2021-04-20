@@ -105,6 +105,8 @@
   
   ![Screenshot_121](https://user-images.githubusercontent.com/24362384/115202315-7e01ba80-a120-11eb-8d81-e86b6e422c48.png)
   
+  </li>
+  
   <h1>Validasi Dokumen HTML</h1>
 <ul>
   <li>Dokumen home.html
@@ -129,3 +131,23 @@
   </li>
 </ul>
   
+
+<h3>Pertanyaan dan Tugas</h3>
+ <ol>
+    <li> Tambahkan Layout untuk menu About<br>
+      => buat single layout yang berisi deskripsi, portfolio, dll
+    <li> Tambahkan Layout untuk menut Contact<br>
+      => yang berisi form isian: nama, email, message, dll
+ </ol>
+ 
+ 
+ <h3>Jawaban</h3>
+ <ol>
+    <li> Layout menu About.
+      
+  ![Screenshot_122](https://user-images.githubusercontent.com/24362384/115356229-a43d5e00-a1e5-11eb-923e-9ce599b3f775.png)
+
+   <li> Layout menu Kontak.
+  
+ ![Screenshot_123](https://user-images.githubusercontent.com/24362384/115356309-b8815b00-a1e5-11eb-8573-cae3557f02bd.png)
+ 
